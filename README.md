@@ -14,6 +14,11 @@ This repository contains my Python learning practice programs. It includes basic
 - Greatest of three numbers
 - Multiple of 7 checker
 - Basic arithmetic operations (sum, average, square area)
+- Checks whether a list is palindrome or not
+- Takes input of user's 3 favourite movies
+- Counts number of students with grade "A" using tuple
+- Stores grades in a list
+- Sorts them in ascending order using sort()
 
 ---
 
@@ -26,6 +31,11 @@ This repository contains my Python learning practice programs. It includes basic
 - Logical operators
 - Modulus operator (%)
 - String functions (`len`, `count`)
+- Lists in Python
+- Tuples in Python
+- List methods (append, copy, reverse, sort)
+- Input and Output
+- Basic conditional logic
 
 ---
 
