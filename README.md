@@ -19,6 +19,7 @@ This repository contains my Python learning practice programs. It includes basic
 - Counts number of students with grade "A" using tuple
 - Stores grades in a list
 - Sorts them in ascending order using sort()
+- Stored word meanings using Python dictionary
 
 ---
 
@@ -36,7 +37,8 @@ This repository contains my Python learning practice programs. It includes basic
 - List methods (append, copy, reverse, sort)
 - Input and Output
 - Basic conditional logic
-
+- Finding unique subjects from a list
+- Understanding how sets remove duplicate values
 ---
 
 ## 🎯 Goal
